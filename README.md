@@ -66,3 +66,9 @@ Run the test suite with:
 ```bash
 php artisan test
 ```
+
+## Screenshots
+![Calculator screenshot 1](<1.png>)
+![Calculator screenshot 2](<2.png>)
+![Calculator screenshot 3](<3.png>)
+
